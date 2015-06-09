@@ -1,0 +1,12 @@
+{
+    "name": "ronald/grafico-d3",
+    "require": {
+        "mbostock/d3": "^3.5"
+    },
+    "authors": [
+        {
+            "name": "ronald",
+            "email": "ronald.degmar@gmail.com"
+        }
+    ]
+}
